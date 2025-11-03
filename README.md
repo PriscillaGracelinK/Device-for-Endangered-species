@@ -5,7 +5,7 @@ The system detects abnormal pulse or motion, then **triggers an alert (LED + Ser
 ---
 
 ## 📂 Files in this Repo
-- `project-endangered_species.ino` → Main Arduino C code.
+- `project-endangered_species.c` → Main Arduino C code.
 - `circuit.png` → Circuit wiring diagram from Tinkercad.
 - `output-smartcollar.png` → Serial Monitor alert output.
 - `demo-smartcollar.mp4` → Simulation demo video.
@@ -26,7 +26,7 @@ The system detects abnormal pulse or motion, then **triggers an alert (LED + Ser
 ## ▶️ How to Run Simulation
 1. Open [Tinkercad Circuits](https://www.tinkercad.com/circuits).  
 2. Recreate the circuit (Arduino Uno + PIR + Potentiometer + LED).  
-3. Upload the code from `project-endangered_species.ino`.  
+3. Upload the code from `project-endangered_species.c`.  
 4. Click **Start Simulation** → Open **Serial Monitor** → Move PIR or adjust potentiometer to trigger alerts.
 
 ---
