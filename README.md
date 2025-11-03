@@ -1,7 +1,5 @@
 # Device-for-Endangered-species
 A low-cost Arduino-based smart collar prototype for endangered animals with motion and pulse monitoring, GPS/GSM alert simulation, and Tinkercad demo.
-# Device for Endangered Species 🐾  
-### Tinkercad-Based Smart Collar Simulation
 
 A **low-cost Arduino-based smart collar** for monitoring endangered animals using **PIR sensor** (motion detection) and **Pulse sensor** (simulated via potentiometer).  
 The system detects abnormal pulse or motion, then **triggers an alert (LED + Serial Monitor message)**, simulating GSM and GPS notifications.
